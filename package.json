@@ -1,0 +1,19 @@
+{
+  "name": "verge-blocks",
+  "version": "1.0.1",
+  "description": "blocks for verge3d",
+  "main": "blocks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjbcool/verge-blocks.git"
+  },
+  "author": "zjbcool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjbcool/verge-blocks/issues"
+  },
+  "homepage": "https://github.com/zjbcool/verge-blocks#readme"
+}
